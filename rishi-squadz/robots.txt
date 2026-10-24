@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /login.html
-Sitemap: https://www.rishisquadz.com/sitemap.xml
